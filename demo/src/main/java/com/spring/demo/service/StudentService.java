@@ -1,5 +1,5 @@
 package com.spring.demo.service;
 
-public interface DemoService {
+public interface StudentService {
 
 }

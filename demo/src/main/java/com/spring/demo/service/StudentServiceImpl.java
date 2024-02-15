@@ -6,6 +6,6 @@ import jakarta.transaction.Transactional;
 
 @Service
 @Transactional
-public class DemoServiceImpl implements DemoService {
+public class StudentServiceImpl implements StudentService {
 
 }
